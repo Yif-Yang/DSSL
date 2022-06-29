@@ -1,6 +1,6 @@
 # DSSL
 
-Here's the official repo for [Directional Self-supervised Learning for Heavy Image Augmentations](https://arxiv.org/abs/2110.13555) [CVPR2022]
+Here's the official repo for [Directional Self-supervised Learning for Heavy Image Augmentations](https://openaccess.thecvf.com/content/CVPR2022/papers/Bai_Directional_Self-Supervised_Learning_for_Heavy_Image_Augmentations_CVPR_2022_paper.pdf) [CVPR2022]
 
 Folder contents:
 * Simsiam_cifar10: implementation of DSSL+SimSiam on cifar10.
